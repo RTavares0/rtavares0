@@ -1,11 +1,13 @@
 Ola Mundo!!! 👋
 Sou a Rafael Tavares, estudante de Análise e Desenvolvimento de Sistemas e um entusiasta de tecnologia! 
 
-
+<div style:"display: inline_block">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rtavares0&count_private=true&show_icons=true&theme=codeSTACKr&include_all_commits=true">
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtavares0&layout=compact&theme=codeSTACKr">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtavares0&layout=compact&theme=codeSTACKr">
+</div>
+
 
 <!--
 **RTavares0/rtavares0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
