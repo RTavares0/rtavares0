@@ -1,4 +1,4 @@
-Ola Mundo!!! 👋
+Ola Mundo!!! 👋 <br>
 Sou a Rafael Tavares, estudante de Análise e Desenvolvimento de Sistemas e um entusiasta de tecnologia! 
 
 <div style="display: inline_block"><br>
